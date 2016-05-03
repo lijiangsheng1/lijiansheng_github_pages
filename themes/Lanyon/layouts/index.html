@@ -46,7 +46,7 @@
         posts we have made.
       -->
       <div class="container content">
-        <h1>This is a Blog</h1>
+<!--        <h1>This is a Blog</h1>
 
         <p class="lead"> Welcome to my blog! </p>
 
@@ -60,13 +60,13 @@
         <p>Sometimes people have an "About me" section on the homepage of their website.</p>
 
         <p>It might even include a picture: </p>
-
+-->
         <!-- Recent Posts section -->
-        <h1 class="post-title">Recent Posts</h1>
+        <h1 class="post-title">近期更新</h1>
           <section id="main">
             <ul id="list">
               {{ range first 10 .Data.Pages }}
-              {{ .Render "summary"}}
+              {{ .Render "li"}}
               {{ end }}
             </ul>
           </section>
