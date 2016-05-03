@@ -4,7 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "开源 感悟 云计算"
-baseurl: "http://www.ocselected.org/public"
+baseurl: "http://lijiangsheng1.github.io"
 title: "适兕的博客"
 canonifyurls: true
 theme: "Lanyon"
