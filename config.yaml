@@ -33,7 +33,7 @@ menu:
       - Name: "归档"
         Pre: "<i class='fa fa-heart'></i>"
         Weight: -110
-        Identifier: "posts
+        Identifier: "posts"
         URL: "/posts/"
       - Name: "关于我"
         Pre: "<i class='fa fa-road'></i>"
