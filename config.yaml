@@ -30,13 +30,16 @@ params:
     - "开源"
     - "感悟"
     - "创业"
+    - "健康"
+    - "读书"
+    - "电影"
 menu:
   main:
-      - Name: "归档"
-        Pre: "<i class='fa fa-heart'></i>"
-        Weight: -110
-        Identifier: "posts"
-        URL: "/posts/"
+#      - Name: "归档"
+#        Pre: "<i class='fa fa-heart'></i>"
+#        Weight: -110
+#        Identifier: "posts"
+#        URL: "/posts/"
       - Name: "关于我"
         Pre: "<i class='fa fa-road'></i>"
         Identifier: "about"
