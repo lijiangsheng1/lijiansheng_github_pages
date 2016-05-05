@@ -21,11 +21,15 @@
                 {{end}}{{end}}
                 {{end}}
               </div>
-              <nav class="pagination group">
+<!--              <nav class="pagination group">
                 <div class="wp-pagenavi">
                   <a class="page" href="/posts/">More...</a>
                 </div>
               </nav>
+-->
+              <!--pagination-->
+              {{ partial "pagination.hbs" . }}
+              <!--/pagination-->
             </div>
           </section>
           {{ partial "sidebarLeftCategories.html" . }}
