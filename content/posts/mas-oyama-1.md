@@ -1,11 +1,16 @@
 ---
 categories:
 - 感悟
-date: 2016-05-05T10:40:34+08:00
-description: ""
+- 健康
+date: 2016-04-15T10:40:34+08:00
+description: "人生，有了大目标固然重要，但是可以稍加努力就可达到的小目标亦很重要！"
 keywords:
 - Culture
 - karate
+tags:
+- Karate
+- 训练
+- 目标
 title: 不积硅步无以至千里
 url: ""
 ---

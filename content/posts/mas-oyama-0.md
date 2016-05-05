@@ -6,6 +6,10 @@ description: "我与极真空手道的系列故事之一一邂逅篇"
 keywords:
 - karate
 - Culture
+tags:
+ - Karate
+ - Health
+ - 训练
 title: 我要每日努力不懈！
 url: ""
 ---
