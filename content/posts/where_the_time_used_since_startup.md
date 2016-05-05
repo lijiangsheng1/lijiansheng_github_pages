@@ -1,4 +1,18 @@
-# 创业以来，我的时间都用在了什么地方？
+---
+categories:
+- 开源
+- 感悟
+- 创业
+date: 2016-05-05T10:40:34+08:00
+description: ""
+keywords:
+- Open Source
+- Culture
+- Cloud comuting
+- Startup
+title: 创业以来，我的时间都用在了什么地方？
+url: ""
+---
 
 先来整理下我做的事情：
 

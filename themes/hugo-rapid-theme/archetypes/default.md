@@ -2,11 +2,12 @@
 title: ""
 description: ""
 categories:
- - 读书笔记
- - 技术文章
- - 思考感悟
+ - 开源
+ - 感悟
 keywords:
- - xxx
+ - "Open Source"
+ - "Culture"
+ - "Cloud comuting"
 url: ""
 
 ---

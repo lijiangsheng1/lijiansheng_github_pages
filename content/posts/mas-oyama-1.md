@@ -1,4 +1,14 @@
-# 不积硅步无以至千里
+---
+categories:
+- 感悟
+date: 2016-05-05T10:40:34+08:00
+description: ""
+keywords:
+- Culture
+- karate
+title: 不积硅步无以至千里
+url: ""
+---
 
 ## 我为什么选择空手道的考级
 

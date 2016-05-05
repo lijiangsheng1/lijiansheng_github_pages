@@ -1,4 +1,16 @@
-# 曾经在职场中犯过的错
+---
+categories:
+- 感悟
+date: 2016-05-05T10:40:34+08:00
+description: ""
+keywords:
+- Open Source
+- Culture
+- Cloud comuting
+- Career
+title: 曾经在职场中犯过的错
+url: ""
+---
 
 ## 缘起
 

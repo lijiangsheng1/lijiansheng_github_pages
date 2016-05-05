@@ -29,6 +29,7 @@ params:
   Categories:
     - "开源"
     - "感悟"
+    - "创业"
 menu:
   main:
       - Name: "归档"
