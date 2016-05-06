@@ -12,9 +12,12 @@
           <h2 class="post-title">
               <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title }}">{{ .Title }}</a>
           </h2>
-          <div class="entry excerpt">
+              <p class="post-description">{{ .Description }}</p>
+     
+<!--          <div class="entry excerpt">
               <p>{{ .Summary }}</p>
           </div>
+-->
       </div>
   </article>
 </div>
