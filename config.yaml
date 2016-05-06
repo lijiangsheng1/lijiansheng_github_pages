@@ -6,6 +6,7 @@ theme: "hugo-rapid-theme"
 MetaDataFormat: "yaml"
 canonifyurls: true
 builddrafts: false
+Paginate: 6
 PaginatePath: paginator
 pygmentsStyle: "default"
 pygmentsUseClasses: true
@@ -30,6 +31,7 @@ params:
     - "开源"
     - "感悟"
     - "创业"
+    - "教育"
     - "健康"
     - "读书"
     - "电影"
