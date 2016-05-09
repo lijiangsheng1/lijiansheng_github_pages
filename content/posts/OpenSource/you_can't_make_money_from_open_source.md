@@ -10,7 +10,7 @@ keywords:
 - make money
 tags:
 - OpenSource
-title: 我们不能从开源本身获得盈利
+title: 我们无法从开源本身获利
 url: ""
 ---
 

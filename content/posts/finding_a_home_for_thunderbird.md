@@ -11,6 +11,7 @@ tags:
   - 文化
 title: "为雷鸟寻找下一个家"
 description: "Mozilla 基金会做出了彻底放弃 Thunderbird 举动，Thunderbird 将会被谁接管？"
+draft: true
 ---
 
 ## Thunderbird 寻找、选择社区的分析报告

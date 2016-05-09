@@ -11,6 +11,7 @@ tags:
 - Movies
 title: 美国队长：内战 观后感
 url: ""
+draft: true
 ---
 
 ## 有关信念、坚持的故事
@@ -19,7 +20,9 @@ url: ""
 
 > I know I'm asking a lot. But the price of freedom is high,it always has been. and it's a price I'm will to pay. And if I'm the only one,then so be it.But I'm willing to bet I'm not.
 
-注：这段台词，我也曾经在创建[开放云精选](http://docs.ocselected.org)社区时引用过。很不幸，电影就是电影，美国队长依然有盟友和追随者。而我的社区就只剩下我一个人了。
+一付虽千万人，吾往矣，的英雄气概！以自由的名义，不惜任何代价。
+
+注：这段台词，我也曾经在创建[开放云精选](http://docs.ocselected.org)社区时引用过。很不幸，电影就是电影，美国队长依然有盟友和追随者。而社区就只剩下我一个人了。
 
 可能和人生的视野有关，也与自己的处境有关系。我写这篇所谓的观后感，没有任何对于剧情的设定、人物的取舍、耗资多少、演员颜值多高、技术效果有多好的叙述和探讨。我只想讨论下美国队长的一些品质！或者说人，应该去坚守的东西！大约我可能会对那些说“不就是一场爆米花的电影吗？至于去挖掘什么人性、政治、立场吗？干吗那么认真？”会有所芥蒂或警惕。现实中遇到这样的人，我一般是不会去理他们的。
 
@@ -29,8 +32,19 @@ url: ""
 
 ![pick a side](http://i0.wp.com/hipertextual.com/files/2016/03/Captain-America-Civil-War-2-Trailer-I-Could-Do-This-All-Day.jpg)
 
-人类的政治是不靠谱的，尤其是一个团体去作恶的时候。神盾局被九头蛇渗透以后，美国队长对此更加的坚定不移。
+人类的政治是不靠谱的，尤其是一个团体去作恶的时候。神盾局被九头蛇渗透以后，美国队长对此更加的坚信不疑。
+
+能够在任何时候，都坚持自己的立场，始终以正义和自由来衡量。这种品质大概也只能在电影和漫画中出现。只能向往之！
+
+这时我想到了大山倍达先辈的一句话：
+
+> ** Justice without power is empty, but power without justice is only Violence.**
+
+在没有成为超级士兵之前，是位残弱多病、身材矮小的男生，即使胸怀大义，连电影院的小流氓都难以招架。只能以：“I Can Do this all day.” 来自我暗示和吓退对手。但是变为超级士兵之后，就可以伸张正义！并非常明确自己的位置和立场！
+
 
 ## 关于诚信
+
+不就是一款协议吗？不就是签个名字吗？至于吗？不惜和昔日的战友撕逼！不惜和整个世界的政府对抗！
 
 ## 关于信任
