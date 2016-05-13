@@ -4,7 +4,7 @@ categories:
 - 感悟
 - 创业
 date: 2016-05-05T10:40:34+08:00
-description: ""
+description: "过去的几年里，是我人生的从不自觉到半自觉，直到近来到自觉到一个过程。这是一个痛苦的过程！其中最重要的部分：时间！对于时间的管理，我必须正视！回顾过去，是为了未来能够更好的驾驭和管理。"
 keywords:
 - Open Source
 - Culture
@@ -12,6 +12,7 @@ keywords:
 - Startup
 title: 创业以来，我的时间都用在了什么地方？
 url: ""
+draft: true
 ---
 
 先来整理下我做的事情：
