@@ -27,8 +27,8 @@
                   <h1 class="post-title">{{ .Title }}</h1>
 
                   <p class="post-byline">
-                    by {{ .GetParam "author" }} · {{ .Date.Format .Site.Params.DateForm }} · {{ .WordCount }} Words ·
-                    ~{{ .ReadingTime }}min reading time |
+                    作/译者：适兕 | {{ .Date.Format .Site.Params.DateForm }} | 字数：{{ .WordCount }}  |
+                    可能会花费您{{ .ReadingTime }}分钟来阅读 | 
                     <!--<a href="https://github.com/coderzh/coderzh-hugo-blog/blob/master/content/{{ replace .Source.File.Path "\\" "/" }}"
                        target="_blank">Improve on <i class="fa fa-github"></i></a>-->
                   </p>
@@ -47,8 +47,17 @@
 
                   <div class="clear"></div>
 
+                  <!-- 华丽丽的分割线 -->
+                  <hr style="border:1px dashed #00CC66" width="90%" size="1" />
+                  <div class="clear"></div>
+
                   <div class="entry">
                     <div class="entry-inner">
+                      <!-- 添加文章的描述内容 -->
+                      <p class="post-description">{{ .Description }}</p>
+                      <!-- end 添加文章的描述内容 -->
+                      <!-- 华丽丽的分割线 -->
+                      <hr style="border:1px dashed #00CC66" width="90%" size="1" />
                       <!--content-->
                       {{ .Content }}
                       <!--/content-->
