@@ -6,7 +6,7 @@ theme: "hugo-rapid-theme"
 MetaDataFormat: "yaml"
 canonifyurls: true
 builddrafts: false
-Paginate: 6
+Paginate: 7
 PaginatePath: paginator
 pygmentsStyle: "default"
 pygmentsUseClasses: true
@@ -26,6 +26,7 @@ params:
   DateForm : "2006年01月02日"
   Tagline: ""
   Description: "一切都是扯淡！"
+  author:  "LiJiansheng"
   Keywords: ""
   Categories:
     - "开源"
@@ -47,8 +48,6 @@ menu:
         Identifier: "about"
         Weight: -100
         URL: "/about/"
-author:
-  name: "适兕"
 
 images:
   - 480x
