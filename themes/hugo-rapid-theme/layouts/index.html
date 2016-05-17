@@ -9,9 +9,28 @@
         <div class="main-inner group">
           <section class="content">
             <div class="pad group">
-              {{ range first 5 .Data.Pages }}
-              {{ partial "featured.html" . }}
+             {{ $paginate := (.Paginate (where .Data.Pages "Section" "!=" "page")) }}
+              {{ if eq .Paginator.PageNumber 1 }}
+               {{ range first 1 .Data.Pages }} 
+               {{ partial "featured.html" . }}
+               {{end}}
               {{end}}
+              <div class="post-list group">
+                {{ range $index,$data := $paginate.Pages }}
+                  {{if gt $index 0}}
+                    {{ if mod $index 2 | eq 1 }}
+                      <div class="post-row">
+                    {{end}}
+
+                      {{ partial "categoryItem.html" $data }}
+
+                    {{ if mod $index 2 | eq 0 }}
+                      </div>
+                    {{end}}
+                  {{end}}
+                {{end}}
+              </div>
+<!--
               <div class="post-list group">
                 {{ range $index,$data := .Data.Pages }}
                 {{ if gt $index 4 }}{{ if ge $data.Date.Year .Now.Year }}
@@ -21,6 +40,7 @@
                 {{end}}{{end}}
                 {{end}}
               </div>
+-->
 <!--              <nav class="pagination group">
                 <div class="wp-pagenavi">
                   <a class="page" href="/posts/">More...</a>
