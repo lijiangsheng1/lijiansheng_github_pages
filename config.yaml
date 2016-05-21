@@ -6,8 +6,8 @@ theme: "hugo-rapid-theme"
 MetaDataFormat: "yaml"
 canonifyurls: true
 builddrafts: false
-Paginate: 7
-PaginatePath: paginator
+Paginate: 9
+PaginatePath: page
 pygmentsStyle: "default"
 pygmentsUseClasses: true
 RSSUri: "feed.xml"

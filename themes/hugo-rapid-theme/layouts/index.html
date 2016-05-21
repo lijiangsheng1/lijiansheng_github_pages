@@ -14,6 +14,10 @@
                {{ range first 1 .Data.Pages }} 
                {{ partial "featured.html" . }}
                {{end}}
+              {{ else }}
+               {{ range first 1 .Paginator.Pages }}
+               {{ partial "featured.html" . }}
+               {{end}}
               {{end}}
               <div class="post-list group">
                 {{ range $index,$data := $paginate.Pages }}
