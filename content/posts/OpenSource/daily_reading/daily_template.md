@@ -11,6 +11,7 @@ keywords:
 - News
 tags:
 - 每日阅读
+- 开源之道
 title: "开源点评（2016-05-22）"
 url: ""
 draft: true
