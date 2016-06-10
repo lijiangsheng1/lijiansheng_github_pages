@@ -19,6 +19,7 @@ contentdir: "content"
 Taxonomies:
   tag: "tags"
   category: "categories"
+googleAnalytics: "UA-79147508-1"
 params:
   CopyrightHTML: "Copyright &#xA9; 2015. All Rights Reserved."
   GitHubUser: "lijiangsheng1"
