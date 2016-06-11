@@ -8,10 +8,11 @@ description: "过去的几年里，是我人生的从不自觉到半自觉，直
 keywords:
 - Open Source
 - Culture
-- Cloud comuting
+- Cloud computing
 - Startup
 title: 创业以来，我的时间都用在了什么地方？
 url: ""
+draft: true
 ---
 
 先来整理下我做的事情：

@@ -20,7 +20,7 @@ description: "一个全新的自我，一位勇敢改变自己的真我！"
 
 ## 目前状态：
 
-尝试创业，毫无进展，没有团队、没有资金。换句不好听的话，就是失败！
+尝试创业，进展缓慢无比，没有团队、没有资金。
 
 穷困但斗志昂扬，需要一份工作！
 
@@ -37,11 +37,11 @@ description: "一个全新的自我，一位勇敢改变自己的真我！"
 * 开源文化布道师、技术翻译
 * 开放云精选创始人
 * 对分布式、集群系统有着浓厚的兴趣
-* 空手道修行者
 * 经常以演讲嘉宾的身份混迹于北京各种开源相关技术的线下活动
 * 每日必须阅读两小时
 * 戒烟者，亦是戒酒者
 * 尝试对自我时间进行苛刻的管理
+* Google 重度依赖者
 
 ## 工作阅历
 
@@ -73,10 +73,10 @@ description: "一个全新的自我，一位勇敢改变自己的真我！"
 | 演讲主题 | 会议名称 | 时间 |地点|
 | ------------ | ------------- | ------------ | ------------ |
 |Python in Virtualization | BPUG 2010 第一次线下活动 | 2010.9.18 | douban office,BeiJing |
-| How to build geeks team | Cloud Valley World 2012 | 2012.12.13 | 北京云基地（上地）|
+| How to build geek's team | Cloud Valley World 2012 | 2012.12.13 | 北京云基地（上地）|
 |introduce oVirt | Fedora User/Developer Conferenc APAC| 2014.5.25|北航 |
 |数据中心操作系统Mesos浅析 |Mesos China Meetup | 2015.6.24 |去哪儿 office 北京 |
-| 为什么基于成功的开源项 目的商业产品会失败？|OpenStack China Meetup | 2015.12.12| Intel北京研发中心|
+| 为什么基于成功的开源项目的商业产品会失败？|OpenStack China Meetup | 2015.12.12| Intel北京研发中心|
 |Open Cloud Profile |2015中国软件技术大会 | 2015.12.12|北京国家会议中心 |
 
 
