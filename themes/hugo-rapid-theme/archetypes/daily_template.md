@@ -2,8 +2,7 @@
 categories:
 - 开源
 - 感悟
-date: 2016-05-22T07:44:50+08:00
-description: "OSCON 2016 talk，Apache Guru，南非的世界级的开源公司"
+description: ""
 keywords:
 - Open Source
 - Culture
@@ -12,7 +11,7 @@ keywords:
 tags:
 - 每日阅读
 - 开源之道
-title: "开源点评（2016-05-22）"
+title: "开源之道"
 url: ""
 draft: true
 ---
