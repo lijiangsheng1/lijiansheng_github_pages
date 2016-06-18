@@ -13,7 +13,6 @@ tags:
  - 训练
 title: 空手道晋级之橙带杠一日常训练
 url: ""
-draft: true
 ---
 
 ## 啰哩啰嗦
