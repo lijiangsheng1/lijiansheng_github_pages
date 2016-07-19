@@ -13,7 +13,7 @@ tags:
  - 训练
 title: 我要每日努力不懈！
 url: ""
-draft: true
+draft: false
 ---
 
 
