@@ -27,7 +27,7 @@ url: ""
 
 在苏州诚品书店的收获是《等待的艺术——慢想，让决定更好》这本书:
 
-![](https://github.com/lijiangsheng1/lijiansheng_github_pages/blob/master/content/posts/Reading/the_art_of_wait.jpg)
+![](https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/content/posts/Reading/the_art_of_wait.jpg)
 
 众所周知，台版书不是一般的贵，比肩于外文书，能让我冲动起来，确实不易，其中在导言中有这样一段话：
 
