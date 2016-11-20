@@ -60,7 +60,7 @@ Mirantis[社区站点](https://www.mirantis.com/software/community) 列出了如
   
 仍然在开放云精选的大框架下，没有涵盖到的领域有：PaaS平台、混合云管理、Hypervisor和容器等。
 
-其实，从这里看出，Mirantis 似乎作出一番和红帽之类的开源厂商的分庭抗礼的姿态，比如Salt的选用，在商业化浓厚的社区中结交联盟，不如高冷的Kubernetes、OpenContrail。Slat的选用看起来似乎不是很明智，但是技术上永远无法说清楚谁孰优孰略，只能是萝卜青菜，各有所爱。
+其实，从这里看出，Mirantis 似乎作出一番和红帽之类的开源厂商的分庭抗礼的姿态，比如Salt的选用，在商业化浓厚的社区中结交联盟，不如高冷的Kubernetes、OpenContrail。Salt的选用看起来似乎不是很明智，但是技术上永远无法说清楚谁孰优孰略，只能是萝卜青菜，各有所爱。
 
 ## 能够学习到什么？
 
