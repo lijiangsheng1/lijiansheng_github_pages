@@ -10,7 +10,7 @@ keywords:
 - Cloud comuting
 title: Mirantis 中国留下了什么遗产？
 url: ""
-draft：true
+draft: true
 ---
 
 ## 题记
