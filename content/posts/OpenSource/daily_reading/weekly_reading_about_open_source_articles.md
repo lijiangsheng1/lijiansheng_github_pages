@@ -3,7 +3,7 @@ categories:
 - 开源
 - 感悟
 date: 2016-12-21T22:27:55+08:00
-description: ""
+description: "半年下来有一些变化，在知识若洪水猛兽的今天，不学会整理，就难以形成智慧，被铺天盖地的讯息所吞噬！所以将每日阅读变更为一周精选。"
 keywords:
 - Open Source
 - Culture
