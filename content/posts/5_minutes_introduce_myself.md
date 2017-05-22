@@ -3,7 +3,7 @@ categories:
 - 开源
 - 感悟
 date: 2017-05-05T16:42:30+08:00
-description: ""
+description: "我该如何向人们作自我介绍？这还真是个问题，写下来，思考、对照。"
 keywords:
 - Open Source
 - Me
