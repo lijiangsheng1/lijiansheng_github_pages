@@ -2,12 +2,13 @@
 title: ""
 description: ""
 categories:
- - 开源
+ - 教育
  - 感悟
 keywords:
- - "Open Source"
+ - "乐观"
  - "Culture"
- - "Cloud comuting"
+ - "哲学"
+ - "人生"
 url: ""
 
 ---
