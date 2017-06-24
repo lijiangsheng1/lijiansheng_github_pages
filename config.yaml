@@ -1,7 +1,7 @@
 title: "适兕的博客"
 languageCode: "zh-CN"
 baseurl: "http://lijiangsheng1.github.io"
-copyright: "Copyright (c) 2016. All rights reserved."
+copyright: "Copyright (c) 2017. All rights reserved."
 theme: "hugo-rapid-theme"
 MetaDataFormat: "yaml"
 canonifyurls: true
@@ -30,9 +30,7 @@ params:
   author:  "LiJiansheng"
   Keywords: ""
   Categories:
-    - "开源"
     - "感悟"
-    - "创业"
     - "教育"
     - "健康"
     - "读书"
