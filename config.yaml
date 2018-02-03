@@ -10,7 +10,8 @@ Paginate: 9
 PaginatePath: page
 pygmentsStyle: "default"
 pygmentsUseClasses: true
-RSSUri: "feed.xml"
+disableKinds=["RSS"]
+rsslimit = 100
 disablePathToLower: true 
 hasCJKLanguage: true
 contentdir: "content"
