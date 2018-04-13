@@ -10,8 +10,8 @@ Paginate: 9
 PaginatePath: page
 pygmentsStyle: "default"
 pygmentsUseClasses: true
-disableKinds=["RSS"]
-rsslimit = 100
+disableKinds: "RSS"
+rsslimit: 100
 disablePathToLower: true 
 hasCJKLanguage: true
 contentdir: "content"
