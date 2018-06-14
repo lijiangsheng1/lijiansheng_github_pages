@@ -1,7 +1,7 @@
 title: "适兕的博客"
 languageCode: "zh-CN"
 baseurl: "http://lijiangsheng1.github.io"
-copyright: "Copyright (c) 2017. All rights reserved."
+copyright: "Copyright (c) 2018. All rights reserved."
 theme: "hugo-rapid-theme"
 MetaDataFormat: "yaml"
 canonifyurls: true
@@ -27,7 +27,7 @@ params:
   SidebarRecentLimit: 5
   DateForm : "2006年01月02日"
   Tagline: ""
-  Description: " 戒技术，论人性！"
+  Description: "意识到自己无知的时候，总是想倾听这个世界。也想和这个世界谈谈。"
   author:  "LiJiansheng"
   Keywords: ""
   Categories:
