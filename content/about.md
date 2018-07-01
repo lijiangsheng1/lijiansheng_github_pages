@@ -96,6 +96,8 @@ description: "一个全新的自我，一位勇敢改变自己的真我！"
 |拿来主义的陷阱 | China Open Source Conference 2017 |2017.11.18  |  上海.交大 |
 |开源的成功理应是什么样子？|全球云计算开源峰会|2018.3.22|北京国家会议中心|
 |如何从领先企业的开源项目洞察技术趋势  |中国开发者关系大会 （第二届）|2018.4.21 | 苏州.西交利物浦大学  |
+|《从Apache、OpenStack到CNCF看开源社区治理的演进》   | Open Infra China Day 2018  | 2018.6.22  |北京国家会议中心   |
+|Why Said the obstacle of enterprise adoption OSS is come from engineers?   | LC3 China  | 2018.6.26  |北京国家会议中心   |
 
 
 ## 出版物
