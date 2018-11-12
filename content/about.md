@@ -98,7 +98,9 @@ description: "一个全新的自我，一位勇敢改变自己的真我！"
 |如何从领先企业的开源项目洞察技术趋势  |中国开发者关系大会 （第二届）|2018.4.21 | 苏州.西交利物浦大学  |
 |《从Apache、OpenStack到CNCF看开源社区治理的演进》   | Open Infra China Day 2018  | 2018.6.22  |北京国家会议中心   |
 |Why Said the obstacle of enterprise adoption OSS is come from engineers?   | LC3 China  | 2018.6.26  |北京国家会议中心   |
+|略略谈开源的就业前景|郑州大学生线下meetup|2018.5.6|郑州大学|
 |开源项目的软件工程方法论探讨   |Tid2018   | 2018.7.17  | 北京国家会议中心  |
+|开源之道| COSCon'2018|2018.10.22|深圳|
 
 
 ## 出版物
